@@ -1,5 +1,3 @@
-![Screenshot 2024-10-03 151235](https://github.com/user-attachments/assets/49cb8227-555f-4100-9f26-05a193f52a42)# Migration of SAP HANA XS Advanced To SAP Cloud Application Programming Model Using SAP HANA Application Migration Assistant
-
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/xsc-cap-migration)](https://api.reuse.software/info/github.com/SAP-samples/xsc-cap-migration)
 
 ## Description
